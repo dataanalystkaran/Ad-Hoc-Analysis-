@@ -39,3 +39,6 @@ The company has provided with 10 Ad- Hoc Requests which they want to use in anal
 
 · Solutions - Increasing production rate by enticing customers with memberships, gift certificates, bundled deals, student discounts, and other special offers.
 
+## Full Report 
+[AD HOC ANALYSIS SQL.pdf](https://github.com/user-attachments/files/16423760/AD.HOC.ANALYSIS.SQL.pdf)
+
